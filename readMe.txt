@@ -5,3 +5,6 @@ test
 Git has a mutable index called stage.
 Git tracks changes of files.小胜
 xiaosheng
+lidashi
+shabilei 
+shabichui
