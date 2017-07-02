@@ -9,3 +9,4 @@ lidashi
 shabilei 
 shabichui
 xiaochuihcui
+傻逼泪
